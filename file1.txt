@@ -1,27 +1,25 @@
 
 Hello
-i am from Central Repository
-=======================
+---------------------------------
+1.i am from Central Repository
+---------------------------------
 
-Nameste,
--------------------------
+ Nameste
+-----------------------------
+2. I am from Local git 
+-----------------------------
 
-I am from Local git 
+-------------------------------
+3. i am Second Changes grom Repo 
+-------------------------------
 
-========================
+------------------------------
+4.ITS SCOND COMMIT FROM LOCAL
+------------------------------
 
-i am Second Changes grom Repo 
-=======================
-ITS SCOND COMMIT FROM LOCAL
-=========================
-
-
-i am from Terminal 
-
-========================
-
-:
-
+--------------------------
+5. i am from Terminal 
+----------------------------
 
 
 
